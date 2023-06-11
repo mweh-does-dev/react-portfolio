@@ -1,7 +1,7 @@
 
 # Berntsson Portfolio
 
-This is my first porfolio made with React and Tailwind CSS.
+This is my first website made with React and Tailwind CSS.
 
 
 
