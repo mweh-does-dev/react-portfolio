@@ -19,3 +19,32 @@ The love for programming is something I've recently started to pursue, but my in
 https://berntsson.surge.sh/
 
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd react-portfolio
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+
+
