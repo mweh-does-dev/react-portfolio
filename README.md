@@ -24,7 +24,7 @@ https://berntsson.surge.sh/
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/mweh-does-dev/react-portfolio
 ```
 
 Go to the project directory
